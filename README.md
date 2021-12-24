@@ -1,3 +1,6 @@
+# The Costs and Benefits of Goal-Directed Attention in Deep Convolutional Neural Networks
+\[[Original paper](https://link.springer.com/article/10.1007/s42113-021-00098-y)\]
+
 ### Set up environment
 `conda create --name myenv --file conda_env/attn_tf22_py37.txt`,
 `pip install tensorflow-gpu==2.2.0` <br/>or `conda install tensorflow-gpu==2.2.0`
